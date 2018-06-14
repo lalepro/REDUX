@@ -2,7 +2,7 @@
 bundle.js
 npm-debug.log
 .DS_Store
-
+/src/actions/key.js
 # IntelliJ
 *.iml
 /.idea
